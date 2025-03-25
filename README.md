@@ -1,0 +1,2 @@
+# NeuroDynArch
+用deepseek和claude生成的基于脑科学的AI算法架构
