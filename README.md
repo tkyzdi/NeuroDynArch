@@ -1,5 +1,6 @@
 # NeuroDynArch
 用deepseek和claude生成的基于脑科学的AI算法架构
+我不是程序员，希望觉得有价值的人可以完善。
 
 神经动态混合专家系统架构文档
 
@@ -26,6 +27,7 @@ DynamicPlasticityModule: 动态可塑性模块，整合STDP和BCM机制
 5. 生物机制层
 EphapticCoupling: 突触外耦合效应，模拟电场传播的远距离影响
 DynamicResourceAllocation: 动态资源分配，优化计算资源利用
+
 专家生成模式
 系统支持两种专家生成模式：
 固定间隔生成: 每处理固定批次数据后创建新专家
@@ -33,6 +35,7 @@ DynamicResourceAllocation: 动态资源分配，优化计算资源利用
 路由权重熵变化
 系统资源利用率
 预测不确定性趋势
+
 学习机制
 系统集成多种生物启发学习机制：
 STDP学习: 基于前后神经元放电时序的可塑性调整
